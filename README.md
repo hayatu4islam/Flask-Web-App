@@ -22,16 +22,10 @@ git clone http://github.com/hayatu4islam/Flask-Web-App.git
 ```
 
 2.  Navigate to the project folder you are working on.
-<pre>
-   ```javascript
-   function sayHello(){
-       console.log("Hello");
-   }
-   ```
-</pre>
+
 3.  Follow the instructions provided in the project's README file for setup and usage.
 
 ### Usage
 Detailed instructions for using and running each project can be found in their respective README files within each project folder. Make sure to carefully read and follow the guidelines provided.
 
-Happy coding! 
+Happy coding! 🚀
