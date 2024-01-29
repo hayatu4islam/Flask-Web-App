@@ -18,7 +18,7 @@ Here, you will find individual folders for each project or assignment covered in
 To get started with the projects in this repository, follow these steps:
 1. Clone the repository to your local machine
 ```
-git clone http://google.com](https://github.com/hayatu4islam/Flask-Web-App.git)
+git clone http://github.com/hayatu4islam/Flask-Web-App.git
 ```
 
 2.  Navigate to the project folder you are working on.
