@@ -24,7 +24,7 @@ To get started with the projects in this repository, follow these steps:
 </pre>
 2.  Navigate to the project folder you are working on.
 <pre>
-   ```
+   ```javascript
    function sayHello(){
        console.log("Hello");
    }
