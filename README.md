@@ -17,11 +17,30 @@ Here, you will find individual folders for each project or assignment covered in
 ### Getting Started
 To get started with the projects in this repository, follow these steps:
 1. Clone the repository to your local machine
-<pre>
-   ```
-   git clone https://github.com/hayatu4islam/Flask-Web-App.git
-   ```
-</pre>
+```html
+<div class="code-container" id="git-clone-code">
+  <pre>
+    <code>
+      git clone http://google.com
+    </code>
+  </pre>
+  <button class="copy-button" onclick="copyCode('git-clone-code')">Copy</button>
+</div>
+
+<script>
+  function copyCode(elementId) {
+    var codeBlock = document.getElementById(elementId).getElementsByTagName('code')[0];
+    var textarea = document.createElement("textarea");
+    textarea.value = codeBlock.innerText;
+    document.body.appendChild(textarea);
+    textarea.select();
+    document.execCommand('copy');
+    document.body.removeChild(textarea);
+    alert("Code copied to clipboard!");
+  }
+</script>
+```
+
 2.  Navigate to the project folder you are working on.
 <pre>
    ```javascript
