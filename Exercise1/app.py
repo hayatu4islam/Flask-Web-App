@@ -6,8 +6,7 @@ app = Flask(__name__)
 
 
 @app.route("/")
-# def show_quote():
-def index():
+def show_quote():
     url = "https://gist.github.com/robatron/a66acc0eed3835119817"
     # try:
     #     response = requests.get(url)
