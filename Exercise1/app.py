@@ -23,7 +23,7 @@ def show_quote():
     return "Pass"
 
 
-# @app.route("/a")
-# def index():
-#     now = datetime.now()
-#     return now.strftime("%d %m %Y %H:%M:%S")
+@app.route("/a")
+def index():
+    now = datetime.now()
+    return now.strftime("%d %m %Y %H:%M:%S")
